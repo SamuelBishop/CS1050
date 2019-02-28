@@ -1,0 +1,17 @@
+//Samuel Bishop
+//Dr. Guilliams
+//Computer Science 1050
+//27 August, 2017
+
+Int main(void)
+{
+	int a,b,c;
+	printf("Scan your first number");
+	scanf("%d", &a);
+	printf("Scan your second number");
+	scanf("%d", &b);
+	c = a + b;
+	printf("The sum of the two numbers is " + c);
+	return 0;
+}
+	
